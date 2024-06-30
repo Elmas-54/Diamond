@@ -12,13 +12,16 @@
                            <div class="collapse navbar-collapse" id="navbarsExample04">
                               <ul class="navbar-nav mx-auto">
                                  <li class="nav-item">
-                                    <a class="nav-link">Diamond</a>
+                                    <a class="nav-link" href="index.php">Diamond</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="index.php">Yonetim Anasayfa</a>
+                                    <a class="nav-link" href="index.php">Anasayfa</a>
                                     </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="urunler.php">Musteri Sayfasi</a>
+                                    <a class="nav-link" href="urunler.php">Urunler</a>
+                                 </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="yonetim/index.php">Yönetim Sayfası</a>
                                  </li>
                               </ul>
                            </div>
